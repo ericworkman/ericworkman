@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**ericworkman/ericworkman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer ex Manager.**  
 
-Here are some ideas to get you started:
+Full Stack plus some.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Badge](https://img.shields.io/badge/security-gray)
+![Badge](https://img.shields.io/badge/sre-gray)
+![Badge](https://img.shields.io/badge/devops-grey)  
+![Badge](https://img.shields.io/badge/elixir-indigo)
+![Badge](https://img.shields.io/badge/phoenix-indigo)
+![Badge](https://img.shields.io/badge/liveview-indigo)  
+![Badge](https://img.shields.io/badge/ruby-crimson)
+![Badge](https://img.shields.io/badge/rails-crimson)
+![Badge](https://img.shields.io/badge/hotwire-crimson)  
+![Badge](https://img.shields.io/badge/react-forestgreen)
+![Badge](https://img.shields.io/badge/nextjs-forestgreen)
+![Badge](https://img.shields.io/badge/tailwind-forestgreen)  
+![Badge](https://img.shields.io/badge/python-blue)
+![Badge](https://img.shields.io/badge/pandas-blue)  
+![Badge](https://img.shields.io/badge/ansible-black)
+![Badge](https://img.shields.io/badge/puppet-black)
